@@ -6,9 +6,9 @@ A full-stack web application for a Nairobi-based coffee house designed for **rem
 
 
 
-**Live Site:** [MonRan Coffee House](https://hesbonrandy.github.io/monran-coffee-house/)  **Live Site:** [MonRan Coffee House](https://hesbonrandy.github.io/monran-coffee-house/)  
+**Live Site:** [MonRan Coffee House](https://hesbonrandy.github.io/monran-coffee-house/)   
 
-**Repository:** [GitHub - WK-8-final-project-and-deployment](https://github.com/Hesbonrandy/WK-8-final-project-and-deployment)**Repository:** [GitHub - WK-8-final-project-and-deployment](https://github.com/Hesbonrandy/WK-8-final-project-and-deployment)
+**Repository:** [GitHub - WK-8-final-project-and-deployment](https://github.com/Hesbonrandy/WK-8-final-project-and-deployment)
 
 
 
