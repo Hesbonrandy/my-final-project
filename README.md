@@ -37,16 +37,17 @@ This project fulfills all **WK-8 assignment requirements** using only **vanilla 
 
 ## 📁 Project Structure
 
-├── index.html 
-├── about.html 
-├── menu.html 
+project-root/
+├── index.html
+├── about.html
+├── menu.html
 ├── events.html
-├── contact.html 
+├── contact.html
 ├── css/
-│ └── style.css 
+│   └── style.css
 ├── js/
-│ └── main.js 
-└── images/ 
+│   └── main.js
+└── images/
 
 ---
 
