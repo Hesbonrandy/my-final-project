@@ -36,7 +36,7 @@ This project fulfills all **WK-8 assignment requirements** using only **vanilla 
 ---
 
 ## 📁 Project Structure
----
+
 ├── index.html # Home page
 ├── about.html # Story, team, space gallery
 ├── menu.html # Filterable menu with KSh prices
@@ -47,7 +47,6 @@ This project fulfills all **WK-8 assignment requirements** using only **vanilla 
 ├── js/
 │ └── main.js # Interactive features
 └── images/ # Logo, drinks, food, space photos
----
 
 ---
 
