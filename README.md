@@ -49,7 +49,7 @@ project-root/
 │   └── main.js
 └── images/
 ```
-
+---
 ## 🚀 Deployment
 
 1. All files are in the **repo root**  
